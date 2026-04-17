@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Jua', sans-serif;
+  --color-brand-primary: #FFB7B2;
+  --color-brand-secondary: #FFDAC1;
+  --color-brand-accent: #B2E2F2;
+}
+
+body {
+  background-color: #FAFAFA;
+  color: #333;
+  font-family: var(--font-jua);
+}
